@@ -7,7 +7,6 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2018/10/26   | [NIPS 2018 - RL under Partial Observability](https://sites.google.com/site/rlponips2018/home?authuser=0) | Workshop |
 | 2018/11/05   | [AAAI 2019 - RL in Games (RLG)](http://aaai-rlg.mlanctot.info/cfp.html) | Workshop |
 | 2018/11/09   | [NIPS 2018 - Reinforcement and Language Learning in Text-based Games](https://www.wordplay2018.com/) | Workshop |
 
@@ -29,10 +28,5 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2018/08/10   | [AIIDE 2018 - AI for Strategy Games](https://skatgame.net/mburo/aiide18ws/) | Workshop  |
 | 2018/10/05   | [NIPS 2018 - Infer to Control](https://sites.google.com/view/infer2control-nips2018) | Workshop |
 | 2018/10/12   | [NIPS 2018 - Deep RL](https://sites.google.com/view/deep-rl-workshop-nips-2018/home) | Workshop |
-
-
-
-
-
-
+| 2018/10/26   | [NIPS 2018 - RL under Partial Observability](https://sites.google.com/site/rlponips2018/home?authuser=0) | Workshop |
 
