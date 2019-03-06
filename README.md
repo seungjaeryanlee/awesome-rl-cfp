@@ -2,19 +2,15 @@
 Collection of awesome Workshop Call for Papers to submit your Reinforcement Learning papers.
 
 
-
 ## Upcoming Deadlines
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| TBD          | [ICLR 2019 - Structure & Priors in Reinforcement Learning](http://spirl.info/2019/about/) | Workshop |
-| TBD          | [ICLR 2019 - Deep Reinforcement Learning Meets Structured Prediction](https://iclr.cc/Conferences/2019/Schedule?showEvent=630) | Workshop |
-| TBD          | [ICLR 2019 - Unsupervised Reinforcement Learning](https://iclr.cc/Conferences/2019/Schedule?showEvent=636)     | Workshop |
+| 2019/03/07   | [ICLR 2019 - Structure & Priors in Reinforcement Learning](http://spirl.info/2019/about/) | Workshop |
+| 2019/03/15   | [ICLR 2019 - Deep Reinforcement Learning Meets Structured Prediction](https://iclr.cc/Conferences/2019/Schedule?showEvent=630) | Workshop |
+| 2019/03/29   | [ICLR 2019 - Task-Agnostic Reinforcement Learning](https://iclr.cc/Conferences/2019/Schedule?showEvent=636)     | Workshop |
 
-* ICLR2019 workshops will be updated as soon as they are finalized.
 * ICML2019 workshops will be added as soon as they are revealed.
-
-
 
 ## Past Deadlines
 
