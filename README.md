@@ -8,7 +8,7 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | ------------ | ------------------------------------------------------------ | -------- |
 | 2019/03/29   | [ICLR 2019 - Task-Agnostic Reinforcement Learning](https://iclr.cc/Conferences/2019/Schedule?showEvent=636)     | Workshop |
 | 2019/04/01   | [RLDM 2019 -  Workshop on Moral Decision Making (MoDeM)](https://sites.google.com/view/rldm-moral-workshop) | Workshop |
-| 2019/05/01   | [ICML 2019 - Reinforcement Learning for Real Life](https://sites.google.c
+| 2019/05/01   | [ICML 2019 - Reinforcement Learning for Real Life](https://sites.google.com/view/RL4RealLife) | Workshop |
 | TBA          | [ICML 2019 - AI in Finance: Applications and Infrastructure for Multi-Agent Learning](https://icml.cc/Conferences/2019/Schedule?showEvent=3506) | Workshop |
 | TBA          | [ICML 2019 - Exploration in Reinforcement Learning Workshop](https://icml.cc/Conferences/2019/Schedule?showEvent=3509) | Workshop |
 | TBA          | [ICML 2019 - Generative Modeling and Model-Based Reasoning for Robotics and AI](https://icml.cc/Conferences/2019/Schedule?showEvent=3510) | Workshop |
