@@ -21,8 +21,6 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type      |
 | ------------ | ------------------------------------------------------------ | --------- |
-| 2019/03/07   | [ICLR 2019 - Structure & Priors in Reinforcement Learning](http://spirl.info/2019/about/) | Workshop |
-| 2019/03/15   | [ICLR 2019 - Deep Reinforcement Learning Meets Structured Prediction](https://iclr.cc/Conferences/2019/Schedule?showEvent=630) | Workshop |
 | 2018/05/20   | [IJCAI-ECAI 2018 - Goal Specifications for RL](https://sites.google.com/view/goalsrl) | Workshop  |
 | 2018/05/25   | [ICML 2018 - Exploration in RL](https://sites.google.com/view/erl-2018/) | Workshop  |
 | 2018/05/30   | [IJCAI-ECAI 2018 - Lifelong Learning: A RL Approach](https://sites.google.com/view/llarla2018/home?authuser=0) | Workshop  |
@@ -38,4 +36,5 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2018/10/26   | [NIPS 2018 - RL under Partial Observability](https://sites.google.com/site/rlponips2018/home?authuser=0) | Workshop |
 | 2018/11/05   | [AAAI 2019 - RL in Games (RLG)](http://aaai-rlg.mlanctot.info/cfp.html) | Workshop |
 | 2018/11/09   | [NIPS 2018 - Reinforcement and Language Learning in Text-based Games](https://www.wordplay2018.com/) | Workshop |
-
+| 2019/03/07   | [ICLR 2019 - Structure & Priors in Reinforcement Learning](http://spirl.info/2019/about/) | Workshop |
+| 2019/03/15   | [ICLR 2019 - Deep Reinforcement Learning Meets Structured Prediction](https://iclr.cc/Conferences/2019/Schedule?showEvent=630) | Workshop |
