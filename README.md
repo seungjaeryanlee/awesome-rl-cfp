@@ -9,8 +9,14 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2019/03/07   | [ICLR 2019 - Structure & Priors in Reinforcement Learning](http://spirl.info/2019/about/) | Workshop |
 | 2019/03/15   | [ICLR 2019 - Deep Reinforcement Learning Meets Structured Prediction](https://iclr.cc/Conferences/2019/Schedule?showEvent=630) | Workshop |
 | 2019/03/29   | [ICLR 2019 - Task-Agnostic Reinforcement Learning](https://iclr.cc/Conferences/2019/Schedule?showEvent=636)     | Workshop |
+| TBA          | [ICML 2019 - AI in Finance: Applications and Infrastructure for Multi-Agent Learning](https://icml.cc/Conferences/2019/Schedule?showEvent=3506) | Workshop |
+| TBA          | [ICML 2019 - Exploration in Reinforcement Learning Workshop](https://icml.cc/Conferences/2019/Schedule?showEvent=3509) | Workshop |
+| TBA          | [ICML 2019 - Generative Modeling and Model-Based Reasoning for Robotics and AI](https://icml.cc/Conferences/2019/Schedule?showEvent=3510) | Workshop |
+| TBA          | [ICML 2019 - ICML Workshop on Imitation, Intent, and Interaction](https://icml.cc/Conferences/2019/Schedule?showEvent=3523) | Workshop |
+| TBA          | [ICML 2019 - Reinforcement Learning for Real Life](https://icml.cc/Conferences/2019/Schedule?showEvent=3515) | Workshop |
+| TBA          | [ICML 2019 - Workshop on Multi-Task and Lifelong Reinforcement Learning](https://icml.cc/Conferences/2019/Schedule?showEvent=3528) | Workshop |
 
-* ICML2019 workshops will be added as soon as they are revealed.
+* ICML2019 workshop CFP deadlines will be added as soon as they are revealed.
 
 ## Past Deadlines
 
