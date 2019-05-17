@@ -37,4 +37,5 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2019/04/30   | [ICML 2019 - AI in Finance: Applications and Infrastructure for Multi-Agent Learning](https://sites.google.com/view/mal-icml-2019/home) | Workshop |
 | 2019/05/01   | [ICML 2019 - Reinforcement Learning for Real Life](https://sites.google.com/view/RL4RealLife) | Workshop |
 | 2019/05/03   | [ICML 2019 - Generative Modeling and Model-Based Reasoning for Robotics and AI](https://sites.google.com/view/mbrl-icml2019) | Workshop |
-| 2019/05/03          | [ICML 2019 - Workshop on Multi-Task and Lifelong Reinforcement Learning](https://sites.google.com/view/mtlrl) | Workshop |
+| 2019/05/03   | [ICML 2019 - Workshop on Multi-Task and Lifelong Reinforcement Learning](https://sites.google.com/view/mtlrl) | Workshop |
+| 2019/05/12   | [IJCAI-19 - Scaling-Up Reinforcement Learning (SURL)](http://surl.tirl.info/) | Workshop |
