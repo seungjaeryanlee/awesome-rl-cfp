@@ -6,7 +6,6 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2019/05/19   | [ICML 2019 - ICML Workshop on Imitation, Intent, and Interaction](https://sites.google.com/view/icml-i3) | Workshop |
 
 * NeurIPS 2019 workshops will be added as soon as they are revealed.
 
@@ -39,3 +38,4 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2019/05/03   | [ICML 2019 - Generative Modeling and Model-Based Reasoning for Robotics and AI](https://sites.google.com/view/mbrl-icml2019) | Workshop |
 | 2019/05/03   | [ICML 2019 - Workshop on Multi-Task and Lifelong Reinforcement Learning](https://sites.google.com/view/mtlrl) | Workshop |
 | 2019/05/12   | [IJCAI-19 - Scaling-Up Reinforcement Learning (SURL)](http://surl.tirl.info/) | Workshop |
+| 2019/05/19   | [ICML 2019 - ICML Workshop on Imitation, Intent, and Interaction](https://sites.google.com/view/icml-i3) | Workshop |
