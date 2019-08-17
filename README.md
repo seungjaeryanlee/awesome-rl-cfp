@@ -6,8 +6,10 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-
-* NeurIPS 2019 workshops will be added as soon as they are revealed.
+| 2019/09/09   | [NeurIPS 2019 - Deep RL Workshop](https://sites.google.com/view/deep-rl-workshop-neurips-2019/) | Workshop  |
+| 2019/09/09   | [NeurIPS 2019 - Learning Transferable Skills](http://www.skillsworkshop.ai/call-for-papers.html) | Workshop  |
+| 2019/09/10   | [NeurIPS 2019 - Optimization Foundation for RL](https://optrl2019.github.io/) | Workshop  |
+| 2019/09/17   | [NeurIPS 2019 - Machine Learning for Autonomous Driving](https://ml4ad.github.io/) | Workshop  |
 
 ## Past Deadlines
 
