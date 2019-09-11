@@ -6,10 +6,8 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2019/09/09   | [NeurIPS 2019 - Deep RL Workshop](https://sites.google.com/view/deep-rl-workshop-neurips-2019/) | Workshop  |
-| 2019/09/09   | [NeurIPS 2019 - Learning Transferable Skills](http://www.skillsworkshop.ai/call-for-papers.html) | Workshop  |
-| 2019/09/10   | [NeurIPS 2019 - Optimization Foundation for RL](https://optrl2019.github.io/) | Workshop  |
 | 2019/09/17   | [NeurIPS 2019 - Machine Learning for Autonomous Driving](https://ml4ad.github.io/) | Workshop  |
+| 2019/09/22   | [NeurIPS 2019 - Safety and Robustness in Decision Making ](https://sites.google.com/view/neurips19-safe-robust-workshop) | Workshop  |
 
 
 ## Past Deadlines
@@ -43,3 +41,6 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2019/05/12   | [IJCAI-19 - Scaling-Up Reinforcement Learning (SURL)](http://surl.tirl.info/) | Workshop |
 | 2019/05/19   | [ICML 2019 - ICML Workshop on Imitation, Intent, and Interaction](https://sites.google.com/view/icml-i3) | Workshop |
 | 2019/09/07   | [NeurIPS 2019 - Biological and Artificial RL](https://sites.google.com/view/biologicalandartificialrl/) | Workshop  |
+| 2019/09/09   | [NeurIPS 2019 - Deep RL Workshop](https://sites.google.com/view/deep-rl-workshop-neurips-2019/) | Workshop  |
+| 2019/09/09   | [NeurIPS 2019 - Learning Transferable Skills](http://www.skillsworkshop.ai/call-for-papers.html) | Workshop  |
+| 2019/09/10   | [NeurIPS 2019 - Optimization Foundation for RL](https://optrl2019.github.io/) | Workshop  |
