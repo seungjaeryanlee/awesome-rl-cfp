@@ -6,7 +6,7 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2019/11/01   | [AAAI Spring Symposium on Challenges and Opportunities for Multi-Agent Reinforcement Learning (COMARL)](https://sites.google.com/view/comarl-aaai-2020/) | Symposium |
+| 2019/11/11   | [AAAI Spring Symposium on Challenges and Opportunities for Multi-Agent Reinforcement Learning (COMARL)](https://sites.google.com/view/comarl-aaai-2020/) | Symposium |
 | 2019/11/15   | [AAAI 2020 - Generalization in Planning](https://sites.google.com/view/genplan20/) | Workshop  |
 | 2019/11/15   | [AAAI 2020 - Workshop on Reinforcement Learning in Games](http://aaai-rlg.mlanctot.info/) | Workshop  |
 | 2019/11/15   | [AAAI-20 Workshop on Plan Activity and Intent Recognition (PAIR 2020)](http://www.planrec.org/PAIR/Resources.html) | Workshop  |
