@@ -12,6 +12,7 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2019/11/15   | [AAAI-20 Workshop on Plan Activity and Intent Recognition (PAIR 2020)](http://www.planrec.org/PAIR/Resources.html) | Workshop  |
 | 2019/11/20   | [The International Conference on Automated Planning and Scheduling 2020 (ICAPS 2020)](https://icaps20.icaps-conference.org/) | Conference |
 | 2019/12/01   | [WSDM SUM20: Workshop on State-based User Modelling](https://www.k4all.org/event/wsdmsum20/) | Workshop |
+| 2020/03/05   | [Special Issue on Reinforcement Learning for Real Life](https://www.springer.com/journal/10994/updates/17254266) | Journal |
 
 ## Past Deadlines
 
