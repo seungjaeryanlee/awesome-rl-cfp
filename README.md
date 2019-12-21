@@ -6,9 +6,9 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2019/11/20   | [The International Conference on Automated Planning and Scheduling 2020 (ICAPS 2020)](https://icaps20.icaps-conference.org/) | Conference |
-| 2019/12/01   | [WSDM SUM20: Workshop on State-based User Modelling](https://www.k4all.org/event/wsdmsum20/) | Workshop |
 | 2020/03/05   | [Special Issue on Reinforcement Learning for Real Life](https://www.springer.com/journal/10994/updates/17254266) | Journal |
+| 2020/03/20   | [ICAPS 2020 - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://icaps20.icaps-conference.org/workshops/prl/) | Workshop |
+| TBA          | [ICLR 2020 - Beyond “tabula rasa” in reinforcement learning: agents that remember, adapt, and generalize](https://iclr.cc/Conferences/2020/Schedule?showEvent=1299) | Workshop |
 
 ## Past Deadlines
 
@@ -50,3 +50,5 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2019/11/15   | [AAAI 2020 - Generalization in Planning](https://sites.google.com/view/genplan20/) | Workshop  |
 | 2019/11/15   | [AAAI 2020 - Workshop on Reinforcement Learning in Games](http://aaai-rlg.mlanctot.info/) | Workshop  |
 | 2019/11/15   | [AAAI-20 Workshop on Plan Activity and Intent Recognition (PAIR 2020)](http://www.planrec.org/PAIR/Resources.html) | Workshop  |
+| 2019/11/20   | [The International Conference on Automated Planning and Scheduling 2020 (ICAPS 2020)](https://icaps20.icaps-conference.org/) | Conference |
+| 2019/12/01   | [WSDM SUM20: Workshop on State-based User Modelling](https://www.k4all.org/event/wsdmsum20/) | Workshop |
