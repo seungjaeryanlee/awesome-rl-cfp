@@ -6,12 +6,12 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2020/01/15   | [IJCNN - WCCI 2020 Special Session on "Methods and Applications of Deep Reinforcement Learning to Autonomous Systems](http://wcci2020.org/ijcnn-sessions/) | Session |
-| 2020/02/05   | [AAMAS 2020 - Multi-Agent-Based Simulation Workshop](https://samarthswarup.github.io/mabs2020/) | Workshop |
-| 2020/02/10   | [AAMAS 2020 - Adaptive Learning Agents Workshop](https://ala2020.vub.ac.be/) | Workshop |
+| 2020/02/11   | [ICLR 2020 - Beyond “tabula rasa” in reinforcement learning: agents that remember, adapt, and generalize](http://www.betr-rl.ml/2020/) | Workshop |
+| 2020/02/06   | [AAMAS 2020 - Multi-Agent-Based Simulation Workshop](https://samarthswarup.github.io/mabs2020/) | Workshop |
 | 2020/03/05   | [Special Issue on Reinforcement Learning for Real Life](https://www.springer.com/journal/10994/updates/17254266) | Journal |
+| 2020/03/18   | [ICRA 2020 - Workshop on Machine Learning in Planning and Control of Robot Motion](https://sites.google.com/view/mlpc-icra2020) | Workshop |
 | 2020/03/20   | [ICAPS 2020 - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://icaps20.icaps-conference.org/workshops/prl/) | Workshop |
-| TBA          | [ICLR 2020 - Beyond “tabula rasa” in reinforcement learning: agents that remember, adapt, and generalize](https://iclr.cc/Conferences/2020/Schedule?showEvent=1299) | Workshop |
+| 2020/03/30   | [ICRA 2020 - Perception, Action, Learning: from Metric-Semantic Scene Understanding to High-level Task Execution](https://mit-spark.github.io/PAL-ICRA2020/) | Workshop |
 
 ## Past Deadlines
 
@@ -55,3 +55,5 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2019/11/15   | [AAAI-20 Workshop on Plan Activity and Intent Recognition (PAIR 2020)](http://www.planrec.org/PAIR/Resources.html) | Workshop  |
 | 2019/11/20   | [The International Conference on Automated Planning and Scheduling 2020 (ICAPS 2020)](https://icaps20.icaps-conference.org/) | Conference |
 | 2019/12/01   | [WSDM SUM20: Workshop on State-based User Modelling](https://www.k4all.org/event/wsdmsum20/) | Workshop |
+| 2020/01/15   | [IJCNN - WCCI 2020 Special Session on "Methods and Applications of Deep Reinforcement Learning to Autonomous Systems](http://wcci2020.org/ijcnn-sessions/) | Session |
+| 2020/02/10   | [AAMAS 2020 - Adaptive Learning Agents Workshop](https://ala2020.vub.ac.be/) | Workshop |
