@@ -6,7 +6,7 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2020/02/11   | [ICLR 2020 - Beyond “tabula rasa” in reinforcement learning: agents that remember, adapt, and generalize](http://www.betr-rl.ml/2020/) | Workshop |
+| 2020/02/24   | [AAMAS 2020 - Adaptive Learning Agents Workshop](https://ala2020.vub.ac.be/) | Workshop |
 | 2020/02/06   | [AAMAS 2020 - Multi-Agent-Based Simulation Workshop](https://samarthswarup.github.io/mabs2020/) | Workshop |
 | 2020/03/05   | [Special Issue on Reinforcement Learning for Real Life](https://www.springer.com/journal/10994/updates/17254266) | Journal |
 | 2020/03/18   | [ICRA 2020 - Workshop on Machine Learning in Planning and Control of Robot Motion](https://sites.google.com/view/mlpc-icra2020) | Workshop |
@@ -56,4 +56,4 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2019/11/20   | [The International Conference on Automated Planning and Scheduling 2020 (ICAPS 2020)](https://icaps20.icaps-conference.org/) | Conference |
 | 2019/12/01   | [WSDM SUM20: Workshop on State-based User Modelling](https://www.k4all.org/event/wsdmsum20/) | Workshop |
 | 2020/01/15   | [IJCNN - WCCI 2020 Special Session on "Methods and Applications of Deep Reinforcement Learning to Autonomous Systems](http://wcci2020.org/ijcnn-sessions/) | Session |
-| 2020/02/10   | [AAMAS 2020 - Adaptive Learning Agents Workshop](https://ala2020.vub.ac.be/) | Workshop |
+| 2020/02/11   | [ICLR 2020 - Beyond “tabula rasa” in reinforcement learning: agents that remember, adapt, and generalize](http://www.betr-rl.ml/2020/) | Workshop |
