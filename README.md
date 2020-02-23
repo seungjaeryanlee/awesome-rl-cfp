@@ -6,8 +6,8 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2020/02/24   | [AAMAS 2020 - Adaptive Learning Agents Workshop](https://ala2020.vub.ac.be/) | Workshop |
 | 2020/02/23   | [AAMAS 2020 - Multi-Agent-Based Simulation Workshop](https://samarthswarup.github.io/mabs2020/) | Workshop |
+| 2020/02/24   | [AAMAS 2020 - Adaptive Learning Agents Workshop](https://ala2020.vub.ac.be/) | Workshop |
 | 2020/03/05   | [Special Issue on Reinforcement Learning for Real Life](https://www.springer.com/journal/10994/updates/17254266) | Journal |
 | 2020/03/18   | [ICRA 2020 - Workshop on Machine Learning in Planning and Control of Robot Motion](https://sites.google.com/view/mlpc-icra2020) | Workshop |
 | 2020/03/20   | [ICAPS 2020 - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://icaps20.icaps-conference.org/workshops/prl/) | Workshop |
