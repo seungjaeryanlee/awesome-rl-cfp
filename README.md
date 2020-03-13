@@ -11,6 +11,7 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2020/03/30   | [ICRA 2020 - Perception, Action, Learning: from Metric-Semantic Scene Understanding to High-level Task Execution](https://mit-spark.github.io/PAL-ICRA2020/) | Workshop |
 | 2020/04/15   | [Computers and Games 2020 Conference](https://www.lamsade.dauphine.fr/~cazenave/cg2020/cg2020.html) | Conference |
 | 2020/10/31   | [Electronics - Special Issue "Deep Reinforcement Learning: Methods and Applications"](https://www.mdpi.com/journal/electronics/special_issues/DRL) | Journal |
+| 2020/04/09   | [RSS2020 Advances & Challenges in Imitation Learning for Robotics](https://sites.google.com/utexas.edu/rss-2020-imitation-learning) | Workshop |
 
 ## Past Deadlines
 
