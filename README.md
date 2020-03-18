@@ -7,7 +7,7 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
 | 2020/03/18   | [ICRA 2020 - Workshop on Machine Learning in Planning and Control of Robot Motion](https://sites.google.com/view/mlpc-icra2020) | Workshop |
-| 2020/03/20   | [ICAPS 2020 - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://icaps20.icaps-conference.org/workshops/prl/) | Workshop |
+| TBD (COVID-19) | [ICAPS 2020 - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://icaps20.icaps-conference.org/workshops/prl/) | Workshop |
 | 2020/03/30   | [ICRA 2020 - Perception, Action, Learning: from Metric-Semantic Scene Understanding to High-level Task Execution](https://mit-spark.github.io/PAL-ICRA2020/) | Workshop |
 | 2020/04/09   | [RSS2020 Advances & Challenges in Imitation Learning for Robotics](https://sites.google.com/utexas.edu/rss-2020-imitation-learning) | Workshop |
 | 2020/04/15   | [Computers and Games 2020 Conference](https://www.lamsade.dauphine.fr/~cazenave/cg2020/cg2020.html) | Conference |
