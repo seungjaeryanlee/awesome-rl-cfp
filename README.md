@@ -12,7 +12,6 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2020/04/09   | [RSS2020 Advances & Challenges in Imitation Learning for Robotics](https://sites.google.com/utexas.edu/rss-2020-imitation-learning) | Workshop |
 | 2020/04/15   | [Computers and Games 2020 Conference](https://www.lamsade.dauphine.fr/~cazenave/cg2020/cg2020.html) | Conference |
 | 2020/04/19   | [RSS2020 Workshop on Self-Supervised Robot Learning](https://www.brainlinks-braintools.uni-freiburg.de/rss20-ssrl/) | Workshop |
-
 | 2020/10/31   | [Electronics - Special Issue "Deep Reinforcement Learning: Methods and Applications"](https://www.mdpi.com/journal/electronics/special_issues/DRL) | Journal |
 
 ## Past Deadlines
