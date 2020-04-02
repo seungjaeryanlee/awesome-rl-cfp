@@ -13,6 +13,7 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2020/04/19   | [RSS2020 Workshop on Self-Supervised Robot Learning](https://www.brainlinks-braintools.uni-freiburg.de/rss20-ssrl/) | Workshop |
 | 2020/04/26   | [IJCAI2020 - Monte Carlo Search 2020](https://www.lamsade.dauphine.fr/~cazenave/mcs2020/mcs2020.html) | Workshop |
 | 2020/05/19   | [ICML2020 - Workshop on Learning in Artificial Open Worlds (LAOW)](https://sites.google.com/view/icml-laow2020) | Workshop |
+| 2020/05/20   | [ICML2020 - Workshop on Lifelong Learning (LifelongML)](https://lifelongml.github.io/) | Workshop |
 | 2020/08/03*   | [ICAPS 2020 - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://icaps20.icaps-conference.org/workshops/prl/) | Workshop |
 | 2020/10/31   | [Electronics - Special Issue "Deep Reinforcement Learning: Methods and Applications"](https://www.mdpi.com/journal/electronics/special_issues/DRL) | Journal |
 
