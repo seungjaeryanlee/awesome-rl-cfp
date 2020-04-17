@@ -6,10 +6,6 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| TBD (COVID-19) | [ICAPS 2020 - Distributed and Multi-Agent Planning (DMAP)](https://icaps20.icaps-conference.org/workshops/dmap/) | Workshop |
-| 2020/04/09   | [RSS2020 Advances & Challenges in Imitation Learning for Robotics](https://sites.google.com/utexas.edu/rss-2020-imitation-learning) | Workshop |
-| 2020/04/15*  | [ICRA 2020 - Perception, Action, Learning: from Metric-Semantic Scene Understanding to High-level Task Execution](https://mit-spark.github.io/PAL-ICRA2020/) | Workshop |
-| 2020/04/15   | [Computers and Games 2020 Conference](https://www.lamsade.dauphine.fr/~cazenave/cg2020/cg2020.html) | Conference |
 | 2020/04/19   | [RSS2020 Workshop on Self-Supervised Robot Learning](https://www.brainlinks-braintools.uni-freiburg.de/rss20-ssrl/) | Workshop |
 | 2020/04/26   | [IJCAI2020 - Monte Carlo Search 2020](https://www.lamsade.dauphine.fr/~cazenave/mcs2020/mcs2020.html) | Workshop |
 | 2020/05/19   | [ICML2020 - Workshop on Learning in Artificial Open Worlds (LAOW)](https://sites.google.com/view/icml-laow2020) | Workshop |
@@ -67,3 +63,7 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2020/02/24   | [AAMAS 2020 - Adaptive Learning Agents Workshop](https://ala2020.vub.ac.be/) | Workshop |
 | 2020/03/05   | [Special Issue on Reinforcement Learning for Real Life](https://www.springer.com/journal/10994/updates/17254266) | Journal |
 | 2020/03/18   | [ICRA 2020 - Workshop on Machine Learning in Planning and Control of Robot Motion](https://sites.google.com/view/mlpc-icra2020) | Workshop |
+| 2020/04/07   | [ICAPS 2020 - Distributed and Multi-Agent Planning (DMAP)](https://icaps20.icaps-conference.org/workshops/dmap/) | Workshop |
+| 2020/04/09   | [RSS2020 Advances & Challenges in Imitation Learning for Robotics](https://sites.google.com/utexas.edu/rss-2020-imitation-learning) | Workshop |
+| 2020/04/15*  | [ICRA 2020 - Perception, Action, Learning: from Metric-Semantic Scene Understanding to High-level Task Execution](https://mit-spark.github.io/PAL-ICRA2020/) | Workshop |
+| 2020/04/15   | [Computers and Games 2020 Conference](https://www.lamsade.dauphine.fr/~cazenave/cg2020/cg2020.html) | Conference |
