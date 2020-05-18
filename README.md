@@ -6,15 +6,14 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2020/05/15*+ | [RSS2020 - Workshop on Self-Supervised Robot Learning](https://www.brainlinks-braintools.uni-freiburg.de/rss20-ssrl/) | Workshop |
-| 2020/05/16*+ | [RSS2020 - Structured Approaches to Robot Learning for Improved Generalization](https://sites.google.com/view/rss20-sarl) | Workshop |
 | 2020/05/19   | [ICML2020 - Workshop on Learning in Artificial Open Worlds (LAOW)](https://sites.google.com/view/icml-laow2020) | Workshop |
 | 2020/05/20   | [ICML2020 - Workshop on Lifelong Learning (LifelongML)](https://lifelongml.github.io/) | Workshop |
+| 2020/05/31*+ | [RSS2020 - Structured Approaches to Robot Learning for Improved Generalization](https://sites.google.com/view/rss20-sarl) | Workshop |
 | 2020/08/03*  | [ICAPS 2020 - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://icaps20.icaps-conference.org/workshops/prl/) | Workshop |
 | 2020/10/31   | [Electronics - Special Issue "Deep Reinforcement Learning: Methods and Applications"](https://www.mdpi.com/journal/electronics/special_issues/DRL) | Journal |
 
 * `*` denote deadlines extended due to COVID-19.
-* `+` denote second extension.
+* `+` denote second or more extension.
 
 ## Past Deadlines
 
@@ -69,3 +68,4 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | 2020/04/15*  | [ICRA 2020 - Perception, Action, Learning: from Metric-Semantic Scene Understanding to High-level Task Execution](https://mit-spark.github.io/PAL-ICRA2020/) | Workshop |
 | 2020/04/15   | [Computers and Games 2020 Conference](https://www.lamsade.dauphine.fr/~cazenave/cg2020/cg2020.html) | Conference |
 | 2020/04/26   | [IJCAI2020 - Monte Carlo Search 2020](https://www.lamsade.dauphine.fr/~cazenave/mcs2020/mcs2020.html) | Workshop |
+| 2020/05/15*+ | [RSS2020 - Workshop on Self-Supervised Robot Learning](https://www.brainlinks-braintools.uni-freiburg.de/rss20-ssrl/) | Workshop |
