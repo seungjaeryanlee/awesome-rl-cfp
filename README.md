@@ -9,6 +9,7 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
 | 2020/10/31   | [Electronics - Special Issue "Deep Reinforcement Learning: Methods and Applications"](https://www.mdpi.com/journal/electronics/special_issues/DRL) | Journal |
+| 2020/11/01   | [AAAI Symposium on Machine Learning for Mobile Robot Navigation in the Wild](https://sites.google.com/utexas.edu/ml4nav/) | Symposium |
 
 
 ## Past Deadlines
