@@ -6,8 +6,17 @@ Collection of awesome Workshop Call for Papers to submit your Reinforcement Lear
 
 ## Upcoming Deadlines
 
+Deep RL
+
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
+| 2020/10/02   | [NeurIPS 2020 - Cooperative AI Workshop](https://www.cooperativeai.com/) | Workshop |
+| 2020/10/05   | [NeurIPS 2020 - Workshop on Biological and Artificial RL](https://sites.google.com/view/biologicalandartificialrl) | Workshop |
+| 2020/10/05   | [NeurIPS 2020 - Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/) | Workshop |
+| 2020/10/06   | [NeurIPS 2020 - Challenges of Real-World RL](https://sites.google.com/view/neurips2020rwrl) | Workshop |
+| 2020/10/09   | [NeurIPS 2020 - Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/modern/) | Workshop |
+| 2020/10/09   | [NeurIPS 2020 - 3rd Robot Learning Workshop: Grounding Machine Learning Development in the Real World](http://www.robot-learning.ml/2020/) | Workshop |
+| 2020/??/??   | [NeurIPS 2020 - Deep Reinforcement Learning](https://nips.cc/Conferences/2020/Schedule?showEvent=16114) | Workshop |
 | 2020/10/31   | [Electronics - Special Issue "Deep Reinforcement Learning: Methods and Applications"](https://www.mdpi.com/journal/electronics/special_issues/DRL) | Journal |
 | 2020/11/01   | [AAAI Symposium on Machine Learning for Mobile Robot Navigation in the Wild](https://sites.google.com/utexas.edu/ml4nav/) | Symposium |
 | 2021/01/31   | [MDPI Journal Algorithms - Special Issue on Reinforcement Learning: Algorithms and Applications](https://www.mdpi.com/journal/algorithms/special_issues/Reinforcement_Learning) | Journal |
