@@ -19,6 +19,7 @@ Deep RL
 | 2020/??/??   | [NeurIPS 2020 - Deep Reinforcement Learning](https://nips.cc/Conferences/2020/Schedule?showEvent=16114) | Workshop |
 | 2020/10/31   | [Electronics - Special Issue "Deep Reinforcement Learning: Methods and Applications"](https://www.mdpi.com/journal/electronics/special_issues/DRL) | Journal |
 | 2020/11/01   | [AAAI Symposium on Machine Learning for Mobile Robot Navigation in the Wild](https://sites.google.com/utexas.edu/ml4nav/) | Symposium |
+| 2020/11/09   | [AAAI 2021 Workshop on Reinforcement Learning in Games](http://aaai-rlg.mlanctot.info/) | Workshop |
 | 2021/01/31   | [MDPI Journal Algorithms - Special Issue on Reinforcement Learning: Algorithms and Applications](https://www.mdpi.com/journal/algorithms/special_issues/Reinforcement_Learning) | Journal |
 
 ## Past Deadlines
