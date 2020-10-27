@@ -10,13 +10,6 @@ Deep RL
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2020/10/02   | [NeurIPS 2020 - Cooperative AI Workshop](https://www.cooperativeai.com/) | Workshop |
-| 2020/10/05   | [NeurIPS 2020 - Workshop on Biological and Artificial RL](https://sites.google.com/view/biologicalandartificialrl) | Workshop |
-| 2020/10/05   | [NeurIPS 2020 - Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/) | Workshop |
-| 2020/10/06   | [NeurIPS 2020 - Challenges of Real-World RL](https://sites.google.com/view/neurips2020rwrl) | Workshop |
-| 2020/10/09   | [NeurIPS 2020 - Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/modern/) | Workshop |
-| 2020/10/09   | [NeurIPS 2020 - 3rd Robot Learning Workshop: Grounding Machine Learning Development in the Real World](http://www.robot-learning.ml/2020/) | Workshop |
-| 2020/??/??   | [NeurIPS 2020 - Deep Reinforcement Learning](https://nips.cc/Conferences/2020/Schedule?showEvent=16114) | Workshop |
 | 2020/10/31   | [Electronics - Special Issue "Deep Reinforcement Learning: Methods and Applications"](https://www.mdpi.com/journal/electronics/special_issues/DRL) | Journal |
 | 2020/11/01   | [AAAI Symposium on Machine Learning for Mobile Robot Navigation in the Wild](https://sites.google.com/utexas.edu/ml4nav/) | Symposium |
 | 2020/11/09   | [AAAI 2021 Workshop on Reinforcement Learning in Games](http://aaai-rlg.mlanctot.info/) | Workshop |
@@ -80,3 +73,11 @@ Deep RL
 | 2020/06/10*  | [ICML2020 - Workshop on Lifelong Learning (LifelongML)](https://lifelongml.github.io/) | Workshop |
 | 2020/06/22*  | [ICML2020 - Workshop on Learning in Artificial Open Worlds (LAOW)](https://sites.google.com/view/icml-laow2020) | Workshop |
 | 2020/08/03*  | [ICAPS 2020 - Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://icaps20.icaps-conference.org/workshops/prl/) | Workshop |
+| 2020/10/02   | [NeurIPS 2020 - Cooperative AI Workshop](https://www.cooperativeai.com/) | Workshop |
+| 2020/10/05   | [NeurIPS 2020 - Workshop on Biological and Artificial RL](https://sites.google.com/view/biologicalandartificialrl) | Workshop |
+| 2020/10/05   | [NeurIPS 2020 - Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/) | Workshop |
+| 2020/10/05   | [NeurIPS 2020 - Deep Reinforcement Learning](https://nips.cc/Conferences/2020/Schedule?showEvent=16114) | Workshop |
+| 2020/10/06   | [NeurIPS 2020 - Challenges of Real-World RL](https://sites.google.com/view/neurips2020rwrl) | Workshop |
+| 2020/10/09   | [NeurIPS 2020 - Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/modern/) | Workshop |
+| 2020/10/09   | [NeurIPS 2020 - 3rd Robot Learning Workshop: Grounding Machine Learning Development in the Real World](http://www.robot-learning.ml/2020/) | Workshop |
+
