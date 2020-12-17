@@ -12,6 +12,7 @@ Deep RL
 | ------------ | ------------------------------------------------------------ | -------- |
 | 2020/12/18   | [ICAPS 2021 - Planning and Learning Track](https://icaps21.icaps-conference.org/Calls/learning-track.html) | Conference |
 | 2021/01/31   | [MDPI Journal Algorithms - Special Issue on Reinforcement Learning: Algorithms and Applications](https://www.mdpi.com/journal/algorithms/special_issues/Reinforcement_Learning) | Journal |
+| 2020/02/19   | [ACM CHI 2021 Reinforcement Learning for Humans, Computer, and Interaction](https://sites.google.com/view/rl4hci/home) | Workshop |
 | 2021/04/16   | [Sim2Real Robot Learning and Control with Realistic Observations](https://www.frontiersin.org/research-topics/16786/sim2real-robot-learning-and-control-with-realistic-observations) | Journal |
 
 ## Past Deadlines
