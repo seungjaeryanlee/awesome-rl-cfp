@@ -1,7 +1,7 @@
 # awesome-rl-cfp
 Collection of awesome Workshop Call for Papers to submit your Reinforcement Learning papers.
 
-* `*` denote deadlines extended due to COVID-19.
+* `*` denote extended deadlines.
 * `+` denote second or more extension.
 
 ## Upcoming Deadlines
@@ -10,10 +10,9 @@ Deep RL
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2021/01/31   | [MDPI Journal Algorithms - Special Issue on Reinforcement Learning: Algorithms and Applications](https://www.mdpi.com/journal/algorithms/special_issues/Reinforcement_Learning) | Journal |
-| 2020/02/10   | [AAMAS 2021 Adaptive and Learning Agents Workshop](https://ala2021.vub.ac.be) | Workshop |
 | 2020/02/19   | [ACM CHI 2021 Reinforcement Learning for Humans, Computer, and Interaction](https://sites.google.com/view/rl4hci/home) | Workshop |
-| 2020/02/24  | [ICAPS 2021 Bridging the Gap Between AI Planning and Reinforcement Learning](https://prl-theworkshop.github.io/) | Workshop |
+| 2020/02/24*  | [AAMAS 2021 Adaptive and Learning Agents Workshop](https://ala2021.vub.ac.be) | Workshop |
+| 2020/02/24   | [ICAPS 2021 Bridging the Gap Between AI Planning and Reinforcement Learning](https://prl-theworkshop.github.io/) | Workshop |
 | 2021/04/16   | [Sim2Real Robot Learning and Control with Realistic Observations](https://www.frontiersin.org/research-topics/16786/sim2real-robot-learning-and-control-with-realistic-observations) | Journal |
 
 ## Past Deadlines
@@ -86,3 +85,4 @@ Deep RL
 | 2020/11/01   | [AAAI Spring Symposium on Challenges and Opportunities for Multi-Agent Reinforcement Learning (COMARL)](https://sites.google.com/view/comarl-aaai-2021/call-for-papers) | Symposium |
 | 2020/11/09   | [AAAI 2021 Workshop on Reinforcement Learning in Games](http://aaai-rlg.mlanctot.info/) | Workshop |
 | 2020/12/18   | [ICAPS 2021 - Planning and Learning Track](https://icaps21.icaps-conference.org/Calls/learning-track.html) | Conference |
+| 2021/01/31   | [MDPI Journal Algorithms - Special Issue on Reinforcement Learning: Algorithms and Applications](https://www.mdpi.com/journal/algorithms/special_issues/Reinforcement_Learning) | Journal |
