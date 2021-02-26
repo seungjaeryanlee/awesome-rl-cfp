@@ -10,6 +10,7 @@ Deep RL
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
+| 2020/03/14   | [EUMAS 2021 European Conference on Multi-agent Systems](http://biu-ai.com/EUMAS21) | Conference |
 | 2020/03/24   | [ICAPS 2021 Bridging the Gap Between AI Planning and Reinforcement Learning](https://prl-theworkshop.github.io/) | Workshop |
 | 2021/04/16   | [Sim2Real Robot Learning and Control with Realistic Observations](https://www.frontiersin.org/research-topics/16786/sim2real-robot-learning-and-control-with-realistic-observations) | Journal |
 
