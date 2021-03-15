@@ -10,8 +10,7 @@ Deep RL
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2020/03/14   | [EUMAS 2021 European Conference on Multi-agent Systems](http://biu-ai.com/EUMAS21) | Conference |
-| 2020/03/24   | [ICAPS 2021 Bridging the Gap Between AI Planning and Reinforcement Learning](https://prl-theworkshop.github.io/) | Workshop |
+| 2021/04/09   | [3rd IEEE Conference on Games](https://ieee-cog.org/2021/)   | Conference |
 | 2021/04/16   | [Sim2Real Robot Learning and Control with Realistic Observations](https://www.frontiersin.org/research-topics/16786/sim2real-robot-learning-and-control-with-realistic-observations) | Journal |
 
 ## Past Deadlines
@@ -87,3 +86,5 @@ Deep RL
 | 2021/01/31   | [MDPI Journal Algorithms - Special Issue on Reinforcement Learning: Algorithms and Applications](https://www.mdpi.com/journal/algorithms/special_issues/Reinforcement_Learning) | Journal |
 | 2020/02/19   | [ACM CHI 2021 Reinforcement Learning for Humans, Computer, and Interaction](https://sites.google.com/view/rl4hci/home) | Workshop |
 | 2020/02/24*  | [AAMAS 2021 Adaptive and Learning Agents Workshop](https://ala2021.vub.ac.be) | Workshop |
+| 2020/03/14   | [EUMAS 2021 European Conference on Multi-agent Systems](http://biu-ai.com/EUMAS21) | Conference |
+| 2020/03/24   | [ICAPS 2021 Bridging the Gap Between AI Planning and Reinforcement Learning](https://prl-theworkshop.github.io/) | Workshop |
