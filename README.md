@@ -10,8 +10,11 @@ Deep RL
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
+| 2021/04/05   | [ICRA 2021 Workshop "Towards Curious Robots: Modern Approaches for Intrinsically-Motivated Intelligent Behavior"](https://sites.google.com/asu.edu/curiousrobots/)   | Workshop   |
 | 2021/04/09   | [3rd IEEE Conference on Games](https://ieee-cog.org/2021/)   | Conference |
 | 2021/04/16   | [Sim2Real Robot Learning and Control with Realistic Observations](https://www.frontiersin.org/research-topics/16786/sim2real-robot-learning-and-control-with-realistic-observations) | Journal |
+| 2021/04/30   | [IJCAI 21 Workshop on Generalization in Planning](https://sites.google.com/view/genplan21/)   | Workshop ||
+| 2021/05/31   | [Multi-Objective Decision Making Workshop (MODeM 2021)](http://modem2021.cs.nuigalway.ie)   | Workshop |
 
 ## Past Deadlines
 
