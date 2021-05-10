@@ -11,6 +11,7 @@ Deep RL
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
 | 2021/05/31   | [Multi-Objective Decision Making Workshop (MODeM 2021)](http://modem2021.cs.nuigalway.ie)   | Workshop |
+| 2021/06/02   | [ICML 2021 - Workshop on Reinforcement Learning Theory](https://lyang36.github.io/icml2021_rltheory/)   | Workshop |
 
 ## Past Deadlines
 
