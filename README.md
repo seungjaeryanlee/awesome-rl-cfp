@@ -10,11 +10,6 @@ Deep RL
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2021/04/05   | [ICRA 2021 Workshop "Towards Curious Robots: Modern Approaches for Intrinsically-Motivated Intelligent Behavior"](https://sites.google.com/asu.edu/curiousrobots/)   | Workshop   |
-| 2021/04/09   | [3rd IEEE Conference on Games](https://ieee-cog.org/2021/)   | Conference |
-| 2021/04/16   | [Sim2Real Robot Learning and Control with Realistic Observations](https://www.frontiersin.org/research-topics/16786/sim2real-robot-learning-and-control-with-realistic-observations) | Journal |
-| 2020/04/21   | [ICAPS 2021 Bridging the Gap Between AI Planning and Reinforcement Learning](https://prl-theworkshop.github.io/) | Workshop |
-| 2021/05/09   | [IJCAI 21 Workshop on Generalization in Planning](https://sites.google.com/view/genplan21/)   | Workshop |
 | 2021/05/31   | [Multi-Objective Decision Making Workshop (MODeM 2021)](http://modem2021.cs.nuigalway.ie)   | Workshop |
 
 ## Past Deadlines
@@ -91,3 +86,8 @@ Deep RL
 | 2020/02/19   | [ACM CHI 2021 Reinforcement Learning for Humans, Computer, and Interaction](https://sites.google.com/view/rl4hci/home) | Workshop |
 | 2020/02/24*  | [AAMAS 2021 Adaptive and Learning Agents Workshop](https://ala2021.vub.ac.be) | Workshop |
 | 2020/03/14   | [EUMAS 2021 European Conference on Multi-agent Systems](http://biu-ai.com/EUMAS21) | Conference |
+| 2021/04/05   | [ICRA 2021 Workshop "Towards Curious Robots: Modern Approaches for Intrinsically-Motivated Intelligent Behavior"](https://sites.google.com/asu.edu/curiousrobots/)   | Workshop   |
+| 2021/04/09   | [3rd IEEE Conference on Games](https://ieee-cog.org/2021/)   | Conference |
+| 2021/04/16   | [Sim2Real Robot Learning and Control with Realistic Observations](https://www.frontiersin.org/research-topics/16786/sim2real-robot-learning-and-control-with-realistic-observations) | Journal |
+| 2020/04/21   | [ICAPS 2021 Bridging the Gap Between AI Planning and Reinforcement Learning](https://prl-theworkshop.github.io/) | Workshop |
+| 2021/05/09   | [IJCAI 21 Workshop on Generalization in Planning](https://sites.google.com/view/genplan21/)   | Workshop |
