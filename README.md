@@ -12,6 +12,9 @@ Deep RL
 | ------------ | ------------------------------------------------------------ | -------- |
 | 2021/05/31   | [Multi-Objective Decision Making Workshop (MODeM 2021)](http://modem2021.cs.nuigalway.ie)   | Workshop |
 | 2021/06/02   | [ICML 2021 - Workshop on Reinforcement Learning Theory](https://lyang36.github.io/icml2021_rltheory/)   | Workshop |
+| 2021/06/09   | [ICML 2021 - Unsupervised Reinforcement Learning](https://urlworkshop.github.io/)   | Workshop |
+| 2021/06/12   | [ICML 2021 - Reinforcement Learning for Real Life](https://sites.google.com/view/RL4RealLife#h.p_E8GavvJ-X7nT)   | Workshop |
+
 
 ## Past Deadlines
 
