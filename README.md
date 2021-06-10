@@ -10,9 +10,6 @@ Deep RL
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2021/05/31   | [Multi-Objective Decision Making Workshop (MODeM 2021)](http://modem2021.cs.nuigalway.ie)   | Workshop |
-| 2021/06/02   | [ICML 2021 - Workshop on Reinforcement Learning Theory](https://lyang36.github.io/icml2021_rltheory/)   | Workshop |
-| 2021/06/09   | [ICML 2021 - Unsupervised Reinforcement Learning](https://urlworkshop.github.io/)   | Workshop |
 | 2021/06/12   | [ICML 2021 - Reinforcement Learning for Real Life](https://sites.google.com/view/RL4RealLife#h.p_E8GavvJ-X7nT)   | Workshop |
 
 
@@ -95,3 +92,6 @@ Deep RL
 | 2021/04/16   | [Sim2Real Robot Learning and Control with Realistic Observations](https://www.frontiersin.org/research-topics/16786/sim2real-robot-learning-and-control-with-realistic-observations) | Journal |
 | 2020/04/21   | [ICAPS 2021 Bridging the Gap Between AI Planning and Reinforcement Learning](https://prl-theworkshop.github.io/) | Workshop |
 | 2021/05/09   | [IJCAI 21 Workshop on Generalization in Planning](https://sites.google.com/view/genplan21/)   | Workshop |
+| 2021/05/31   | [Multi-Objective Decision Making Workshop (MODeM 2021)](http://modem2021.cs.nuigalway.ie)   | Workshop |
+| 2021/06/02   | [ICML 2021 - Workshop on Reinforcement Learning Theory](https://lyang36.github.io/icml2021_rltheory/)   | Workshop |
+| 2021/06/09   | [ICML 2021 - Unsupervised Reinforcement Learning](https://urlworkshop.github.io/)   | Workshop |
