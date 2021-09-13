@@ -10,7 +10,6 @@ Deep RL
 
 | CFP Deadline | Event                                                        | Type     |
 | ------------ | ------------------------------------------------------------ | -------- |
-| 2021/07/12   | [ICDL 2021 - Workshop on Human-aligned Reinforcement Learning for Autonomous Agents and Robots](https://harlworkshop.github.io/)   | Workshop |
 
 
 ## Past Deadlines
@@ -96,3 +95,4 @@ Deep RL
 | 2021/06/02   | [ICML 2021 - Workshop on Reinforcement Learning Theory](https://lyang36.github.io/icml2021_rltheory/)   | Workshop |
 | 2021/06/09   | [ICML 2021 - Unsupervised Reinforcement Learning](https://urlworkshop.github.io/)   | Workshop |
 | 2021/06/12   | [ICML 2021 - Reinforcement Learning for Real Life](https://sites.google.com/view/RL4RealLife#h.p_E8GavvJ-X7nT)   | Workshop |
+| 2021/07/12   | [ICDL 2021 - Workshop on Human-aligned Reinforcement Learning for Autonomous Agents and Robots](https://harlworkshop.github.io/)   | Workshop |
