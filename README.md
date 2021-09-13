@@ -1,3 +1,5 @@
+# ⚠️ This repo is no longer maintained
+
 # awesome-rl-cfp
 Collection of awesome Workshop Call for Papers to submit your Reinforcement Learning papers.
 
